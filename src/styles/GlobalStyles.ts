@@ -31,7 +31,7 @@ export default createGlobalStyle`
  
     --link: #5d80d6;
  
-    --rocketseat: #6633cc;
+    --purple: #6633cc;
   }
 
 

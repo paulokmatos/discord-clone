@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Button } from './styles';
-
+import instagram from '../../assets/instagram.png'
 export interface Props {
   selected?: boolean;
   isHome?: boolean;
@@ -22,7 +22,7 @@ const ServerButton: React.FC<Props> = ({
       mentions={mentions}
       className={selected ? 'active' : ''}
     >
-      {isHome && <img src="https://cdn-icons.flaticon.com/png/512/4922/premium/4922972.png?token=exp=1636672596~hmac=8dd55b69bbb8eb8f426bc7d1c05f9134" alt="Rocketseat" />}
+      {isHome && <img src={instagram}alt="Instagram" />}
     </Button>
   );
 };
