@@ -1,3 +1,5 @@
+![Interface Screenshot](https://github.com/paulokmatos/discord-clone/blob/master/raw/Captura%20de%20tela%20de%202022-01-20%2015-15-23.png)
+
 # Clone da Interface do Discord com React
 
 O Intuito do Projeto foi praticar o uso das tecnologias 
